@@ -23,6 +23,7 @@ twitter_username:
 github_username:
 disqus:
     shortname: thomasmcothran
+google_analytics: UA-63286556-1
 
 # Build settings
 markdown: Kramdown
