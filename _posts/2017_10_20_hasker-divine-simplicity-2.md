@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Through a Secondary Source Darkly: Hasker on Divine Simplicity"
-date: 2017-10-20 04:26:40 -0400
+title:  "Hasker on Divine Simplicity Part 2"
+date:   2017-10-11 04:26:48 -0400
 categories: [philosophy, philosophy of religion, series]
 tags: [hasker on simplicity, analytic philosophy]
+
 ---
 
 Hasker's constructive argument prominently features two methods:
