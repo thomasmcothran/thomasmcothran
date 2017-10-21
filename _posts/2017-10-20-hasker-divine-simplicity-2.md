@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hasker's Methodology: Nescience and Deferral
+title: "Hasker's Methodology: Nescience and Deferral""
 date: 2017-10-20 04:26:40 -0400
 categories: [philosophy, philosophy of religion, series]
 tags: [hasker on simplicity, analytic philosophy]
