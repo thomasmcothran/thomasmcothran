@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Oversimplifying Divine Simplicity, Part 1"
+title:  "Through a Secondary Source Darkly: Hasker on Divine Simplicity"
 date:   2017-10-11 04:26:48 -0400
-categories: philosophy
+categories: [philosophy, philosophy of religion, series]
+tags: [hasker on simplicity, analytic philosophy]
+
 ---
 
 In "Is Divine Simplicity a Mistake", William Hasker argues that "the
@@ -26,7 +28,7 @@ but about the truth of the subject-matter.
 > though this will not be the purpose of the present essay. But once
 > that has been done, this accomplishment is merely preliminary to
 > raising the question: Do we have good reason either to agree or to
-> disagree with the thinker in question[^3]?
+> disagree with the thinker in question?[^3]
 
 That Hasker is not engaged in historical research is clear from those
 with whom he engages. Neither St. Augustine nor any historical authority
@@ -80,7 +82,7 @@ uncontroversial that to criticize the position of another, one first
 must understand it; and that as an academic, one must both characterize
 it accurately and provide the textual grounds for that clarification.
 
-*Next time: Is simplicity contradictory?*
+*Next time: Hasker's presentation of divine simplicity*
 
 Footnotes
 =========
