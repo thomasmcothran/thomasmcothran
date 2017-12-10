@@ -2,7 +2,7 @@
 layout: post
 author: 'Thomas M. Cothran'
 title: William Hasker on Divine Simplicity
-categories: philosophy
+categories: philosophy, essay
 excerpt: In "Is Divine Simplicity a Mistake", William Hasker argues that "the strong doctrine of divine simplicity **is** a mistake, one from which theology needs to be liberated." With this sweeping charter, Hasker proceeds to critique the "traditional strong doctrine of divine simplicity, attributed to Aquinas and before him to Augustine."
 ---
 
@@ -473,7 +473,7 @@ comprehends everything that is.
 
 Although we cannot know what it is like for God to know, we nevertheless
 find strong indications that higher modes of knowledge tend to be more
-unified. The child learns that `1 + 1 ` 2=, and that `2 + 1 ` 3=. The
+unified. The child learns that `1 + 1 = 2`, and that `2 + 1 = 3`. The
 two are discrete facts, relatively unconnected. But as the child
 advances to understand the principles of arithmetic, the notion of
 integers and of addition is grasped in principle, and the child performs
@@ -486,8 +486,8 @@ know that `30` minutes past the hour is half past. But what we often do
 not grasp is the essential feature of the base decimal system is that
 every place is the digit multiplied by a number that is the base number
 to the power of the index. So, in the base-10 system, the first place is
-10^0^, the second 10^1^, the third 10^2^, and so on. In understanding
-the pattern b^i^, where b is the base and i is the index, one grasps at
+10^0, the second 10^1, the third 10^2, and so on. In understanding
+the pattern b^i, where b is the base and i is the index, one grasps at
 once not only base-10, but base-60, base-2, and so on.
 
 Our higher acts of understanding grasp a multiplicity in a single act.
