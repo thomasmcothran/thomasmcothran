@@ -2,7 +2,9 @@
 layout: post
 author: 'Thomas M. Cothran'
 title: William Hasker on Divine Simplicity
-categories: philosophy, essay
+categories: 
+  - philosophy 
+  - essay
 excerpt: In "Is Divine Simplicity a Mistake", William Hasker argues that "the strong doctrine of divine simplicity **is** a mistake, one from which theology needs to be liberated." With this sweeping charter, Hasker proceeds to critique the "traditional strong doctrine of divine simplicity, attributed to Aquinas and before him to Augustine."
 ---
 
